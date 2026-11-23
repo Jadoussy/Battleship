@@ -23,3 +23,23 @@ Depuis un terminal dans le dossier du projet :
 
 ```bash
 python main.py
+```
+
+## Exemple
+```bash
+Tour n°3 ===> Joueur 1 <===
+  1 | N . . . . . . . . . 
+  2 | N X . . . . . . . . 
+  3 | N N N . . . . . . . 
+  4 | N N N N . . . . . . 
+  5 | N N N N N . . . . . 
+  6 | . . . . N . . . . . 
+  7 | . . . . N . . . . . 
+  8 | . . . . . . . . . . 
+  9 | . . . . . . . . . . 
+ 10 | . . . . . . . . . . 
+      1 2 3 4 5 6 7 8 9 10 
+
+t3-[J1] Moment du TIR -----
+   N° de ligne :
+```
